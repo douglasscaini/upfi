@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./.github/#.svg" width="150px"/></h1>
+<h1 align="center"><img src="./.github/logo.svg" width="150px"/></h1>
 
 <h3 align="center">upfi</h3>
 
