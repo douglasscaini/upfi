@@ -21,7 +21,7 @@
     <td colspan="1">Web</td>
   </tr>
   <tr>
-    <td><img src="./.github/#.gif" width="100%" /></td></td>
+    <td><img src="./.github/gif.gif" width="100%" /></td></td>
   </tr>
 </table>
 
