@@ -13,7 +13,7 @@
 
 ## :speech_balloon: Sobre <a name="about"></a>
 
-#
+> O `upfi` é uma plataforma para envio de imagens. Ela realiza requisições para uma API Next.js que retorna os dados do FaunaDB (banco de dados) e do ImgBB (serviço de hospedagem de imagens).
 
 <br />
 <table>
@@ -41,11 +41,14 @@ $ yarn dev
 
 ## :triangular_flag_on_post: Desafio <a name="challenge"></a>
 
-> #
+> Realizar a lógica para o upload de imagens utilizando ImgBB, Fauna e React Hook Form.
 
 ## :heavy_check_mark: Tecnologias <a name="technologies"></a>
 
+- [ImgBB](https://pt-br.imgbb.com/)
 - [ReactJS](https://pt-br.reactjs.org/)
+- [FaunaDB](https://fauna.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ---
 
