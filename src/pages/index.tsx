@@ -16,13 +16,13 @@ type Image = {
   id: string;
 };
 
-type GetImagesResponse = {
+type FetchImagesProps = {
   after: string;
   data: Image[];
 };
 
 export default function Home(): JSX.Element {
-  async function fetchImages({ pageParam = null }): Promise<GetImagesResponse> {
+  async function fetchImages({ pageParam = null }): Promise<FetchImagesProps> {
     const { data } = await api('/api/images', {
       params: {
         after: pageParam,
